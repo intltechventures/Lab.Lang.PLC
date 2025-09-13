@@ -37,7 +37,7 @@
   + [Part 4 of 4: PLC Ladder Logic](https://www.myplctraining.com/blog/beginners-free-plc-training-part-4/) 
 
 
-- YouTube Channel: 
+### YouTUbe Channels
 
 
 - YouTube Channel: [Instrumentation Tools](https://www.youtube.com/@InstrumentationTools)
@@ -63,7 +63,7 @@
 - YouTube Channel: [Instrumentation & Control](https://www.youtube.com/@InstrumentationControl) 
 
   + Playlist: [PLC Basics](https://www.youtube.com/playlist?list=PLhJQWRdDvAThM4S6APm6IpyfBhg1iEiHl) (4 videos)
-    * [PLC Basics for Beginners - [Part 1][(https://www.youtube.com/watch?v=c4VrA0kx5zc)
+    * [PLC Basics for Beginners - [Part 1]](https://www.youtube.com/watch?v=c4VrA0kx5zc)
     * [PLC Basics for Beginners Part 2 - [PLC Architecture]](https://www.youtube.com/watch?v=p-p2IjxGelQ&list=PLhJQWRdDvAThM4S6APm6IpyfBhg1iEiHl&index=2)
     * [Digital Input Card - PLC Basics for Beginners - [Part 3]](https://www.youtube.com/watch?v=qPEBjqW9cE8&list=PLhJQWRdDvAThM4S6APm6IpyfBhg1iEiHl&index=3)
     * [Digital Output Card – PLC Basics for Beginners – [Part 4]](https://www.youtube.com/watch?v=3Q1IoX6f3Mw&list=PLhJQWRdDvAThM4S6APm6IpyfBhg1iEiHl&index=4)
